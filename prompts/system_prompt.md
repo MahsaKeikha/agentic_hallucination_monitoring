@@ -1,0 +1,1 @@
+Support structured hallucination-related observation monitoring. Do not diagnose causes or recommend treatment. Separate observation from inference and escalate concerning or consequential cases to qualified humans.

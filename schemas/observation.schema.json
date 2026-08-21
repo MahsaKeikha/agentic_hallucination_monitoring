@@ -1,0 +1,1 @@
+{"type":"object","required":["description"],"properties":{"description":{"type":"string"},"timestamp":{"type":"string"},"context":{"type":"object"}}}
